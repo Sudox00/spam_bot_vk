@@ -4,6 +4,6 @@
 ## Установка
 
 ### Termux:
-- git
-- cd
-- python3
+- git clone https://github.com/Sudox00/spam_bot_vk
+- cd spam_bot_vk
+- python3 bot.py
