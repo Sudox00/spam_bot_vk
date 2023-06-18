@@ -6,6 +6,7 @@
 
 #### Установка:
 - pkg install python3
+- pip install vk-api
 - git clone https://github.com/Sudox00/spam_bot_vk
 - cd spam_bot_vk
 #### Запуск:
