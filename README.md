@@ -5,8 +5,7 @@
 ### Termux:
 
 #### Установка:
-- pkg remove game-repo -y
-- pkg remove science-repo -y
+- pkg remove game-repo -y && pkg remove science-repo -y
 - pkg update -y
 - pkg install python -y
 - pkg install git -y
