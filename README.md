@@ -6,7 +6,7 @@
 
 #### Установка:
 - pkg install python -y & pkg remove game-repo -y & pkg remove science-repo -y & pkg update -y
-- pip install vk-api & pkg install git & git clone https://github.com/Sudox00/spam_bot_vk.git -y & cd spam_bot_vk
+- pip install vk-api & pkg install git & git clone https://github.com/Sudox00/spam_bot_vk.git & cd spam_bot_vk
 - 
 #### Запуск:
 - python3 bot.py
