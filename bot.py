@@ -7,6 +7,7 @@ try:
 except:	
 	my_file = open("token.txt", "w")
 	my_file.close()
+	z = open('token.txt')
 	
 if z.read() == "":
 	access_token = input("Введите ваш access_token: ")
